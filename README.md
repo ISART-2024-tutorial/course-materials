@@ -12,7 +12,7 @@ The model you'll create in this tutorial was developed by W. Kozma and M. Cotton
 
 ## Quick Start
 
-1. **Send your GitHub username to mhollingsworth@NTIA.gov** and for access to the course materials and coding environment. Once we receive your email, we will confirm you are an ISART attendee create your account. If you do not have a GitHub account, [create one](https://github.com). 
+1. **Send your GitHub username to mhollingsworth@NTIA.gov** and for access to the course materials and coding environment. Once we receive your email, we will confirm you are an ISART attendee and create your account. If you do not have a GitHub account, [create one](https://github.com)!
 
 2. Go to [www.isartmax.com](https://isartmax.com) to access your personal JupyterLab account.
    
