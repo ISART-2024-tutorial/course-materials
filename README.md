@@ -12,7 +12,7 @@ The model you'll create in this tutorial was developed by W. Kozma and M. Cotton
 
 ## Quick Start
 
-1. **Send your Github username to mhollingsworth@NTIA.gov** and for access to the course materials and coding environment. Once we receive your email, we will confirm you are an ISART attendee create your account. If you do not have a GitHub account, [create one](https://github.com). 
+1. **Send your GitHub username to mhollingsworth@NTIA.gov** and for access to the course materials and coding environment. Once we receive your email, we will confirm you are an ISART attendee create your account. If you do not have a GitHub account, [create one](https://github.com). 
 
 2. Go to [www.isartmax.com](https://isartmax.com) to access your personal JupyterLab account.
    
@@ -22,11 +22,13 @@ The model you'll create in this tutorial was developed by W. Kozma and M. Cotton
 
    All of the course materials are pre-loaded in your JupyterLab account. Once you've logged in, double click on the `course-materials/` folder to access them. 
 
-- [**`course-materials/Lesson1.ipynb`**](Lesson1.ipynb) is a Jupyter Notebook containing Lesson 1 on determining clutter metrics from LiDAR.
+- [**`course-materials/Lesson1.ipynb`**](Lesson1.ipynb) is a quick introduction to using Jupyter Notebooks.
 
-- [**`course-materials/Lesson2.ipynb`**](Lesson2.ipynb) is a Jupyter Notebook containing Lesson 2 on comparing your clutter model to P.2108.
+- [**`course-materials/Lesson2.ipynb`**](Lesson2.ipynb) notebook contains Lesson 2 on determining clutter metrics from LiDAR.
 
-- [**`course-materials/Lesson3.ipynb`**](Lesson3.ipynb) is a Jupyter Notebook containing Lesson 3 on analyzing your clutter model against measurement data from other clutter environments.
+- [**`course-materials/Lesson3.ipynb`**](Lesson3.ipynb) notebook contains Lesson 3 on comparing your clutter model to P.2108.
+
+- [**`course-materials/Lesson4.ipynb`**](Lesson4.ipynb) notebook contains Lesson 4 on analyzing your clutter model against measurement data from other clutter environments.
 
 - [**`course-materials/data/`**](./data) is a directory containing LiDAR and propagation measurement datasets.
 
@@ -49,3 +51,13 @@ The first cell at the top should look like this.
 Select this cell and press "Shift-Enter" on the keyboard to execute the code within the cell (alternatively, you can also press the "play button" at the top of the page). "Hello, ISART World!" should output just below the cell. You've executed your first bit of Python code.
 
 Continue executing the cells in Lesson1 until you reach the end. Now it's time to dive into clutter modeling with lessons 2, 3, and 4. Happy modeling!
+
+### LiDAR data
+
+The LiDAR data used in this tutorial comes from [OpenTopography](https://opentopography.org). You can create an account for free and download terrain and surface rasters for your area of interest. 
+
+TODO describe raster data and how to download it. What's the difference between terrain and surface rasters?
+
+### Measurement data
+
+TODO Link to the github page with the released data.
