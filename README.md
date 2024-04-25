@@ -38,11 +38,11 @@ The model you'll create in this tutorial was developed by W. Kozma and M. Cotton
 
 ### JupyterLab
 
-JupyterLab is a web-based coding environment that allows you to work with program files (such as Jupyter Notebooks)and command line terminals. By following the instructions in Quick Start, you'll have an account created to access the ISART JupyterLab environment. Your JupyterLab account is for you to experiment with and can't be accessed by other users. Changes that you make to files in your account will persist between logins.
+JupyterLab is a web-based coding environment that allows you to work with program files (such as Jupyter Notebooks) and command line terminals. Following the instructions above, in Quick Start, to have an ISART JupyterLab account created for you. Your JupyterLab account is for you to experiment with and is only accessable to you. Any changes that you make to files will be saved for the next time you login.
 
 ### Jupyter Notebooks
 
-A Jupyter Notebook (.ipynb file) is an interactive computing document that mixes coding, computations, outputs, explanatory text, and images. Each lesson of this tutorial is contained within a Jupyter Notebook. Start by opening up Lesson1.ipynb in JupyterLab. This notebook contains Python code and explanatory text for an introduction to running Jupyter Noteboks.
+A Jupyter Notebook (.ipynb file) is an interactive computing document that brings together coding, computation, outputs, explanatory text, and images. Each lesson of this tutorial is contained within a Jupyter Notebook. The Lesson1.ipynb notebook contains Python code and explanatory text for running Jupyter Noteboks.
 
 **How to run your first Jupyter Notebook**
 
