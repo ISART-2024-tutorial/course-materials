@@ -44,13 +44,23 @@ JupyterLab is a web-based coding environment that allows you to work with progra
 
 A Jupyter Notebook (.ipynb file) is an interactive computing document that mixes coding, computations, outputs, explanatory text, and images. Each lesson of this tutorial is contained within a Jupyter Notebook. Start by opening up Lesson1.ipynb in JupyterLab. This notebook contains Python code and explanatory text for an introduction to running Jupyter Noteboks.
 
-The first cell at the top should look like this.
+**How to run your first Jupyter Notebook**
 
-![alt text](./images/hello_world.png "Hello, World!")
+1. Go to [www.isartmax.com](https://isartmax.com) to access your personal JupyterLab account.
 
-Select this cell and press "Shift-Enter" on the keyboard to execute the code within the cell (alternatively, you can also press the "play button" at the top of the page). "Hello, ISART World!" should output just below the cell. You've executed your first bit of Python code.
+2. Log in with your GitHub account. If you haven't sent us you're GitHub username, then go back to **Quick Start** and perform step 1.
 
-Continue executing the cells in Lesson1 until you reach the end. Now it's time to dive into clutter modeling with lessons 2, 3, and 4. Happy modeling!
+3. Double click on the `course-materials/` folder on the panel to the left. 
+
+4. Double click on `Lesson1.ipynb`.
+
+   The first cell of Lesson1.ipynb should look like this.
+
+   ![alt text](./images/hello_world.png "Hello, World!")
+
+   Select this cell and press "Shift-Enter" on the keyboard to execute the code within the cell (alternatively, you can also press the "play button" at the top of the page). "Hello, ISART World!" should output just below the cell. You've executed your first bit of Python code.
+
+5. Continue executing the cells in Lesson1 until you reach the end. Now it's time to dive into clutter modeling with lessons 2, 3, and 4. Happy modeling!
 
 ### LiDAR data
 
