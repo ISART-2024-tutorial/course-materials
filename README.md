@@ -14,11 +14,15 @@ The model you'll create in this tutorial was developed by W. Kozma and M. Cotton
 
 1. **Send your GitHub username to mhollingsworth@NTIA.gov** and for access to the course materials and coding environment. Once we receive your email, we will confirm you are an ISART attendee and create your account. If you do not have a GitHub account, [create one](https://github.com)!
 
-2. Go to [www.isartmax.com](https://isartmax.com) to access your personal JupyterLab account.
+2. Once we receive your email, we will invite you to the [ISART-2024-tutorial GitHub organization](https://github.com/ISART-2024-tutorial). It may take a few hours for us to respond, so please be patient. Check your [GitHub organizations tab](https://github.com/settings/organizations) and accept the invite.
+
+   ![alt text](./images/org_invite.png "Example org. invite")
+
+3. Go to [www.isartmax.com](https://isartmax.com) to access your personal JupyterLab account.
    
    JupyterLab is a cloud programming environment that ISART attendees can use for the duration of ISART 2024.
 
-3. Run the lessons.
+4. Run the lessons.
 
    All of the course materials are pre-loaded in your JupyterLab account. Once you've logged in, double click on the `course-materials/` folder to access them. 
 
