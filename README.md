@@ -78,7 +78,7 @@ For each location we have two .tif files: a Digital Surface Model (DSM), and a D
 
 <sup>Image from [NSF Tutorial "What is a CHM, DSM and DTM? About Gridded, Raster LiDAR Data" by Leah A. Wasser](https://www.neonscience.org/resources/learning-hub/tutorials/chm-dsm-dtm).</sup>
 
-If you would like to LiDAR rasters from areas not included in this tutorial, we recommend using OpenTopography. When downloading data from OpenTopography select GeoTiff as the output format. If available, select Digital Terrain Model and Digital Surface Model to receive both raster layers.
+If you would like LiDAR rasters from areas not included in this tutorial, we recommend using OpenTopography. When downloading data from OpenTopography select GeoTiff as the output format. If available, select Digital Terrain Model and Digital Surface Model to receive both raster layers.
 
 <img src="./images/topo.png" alt="OpenTopo" width="400"/>
 
