@@ -30,9 +30,11 @@ The model you'll create in this tutorial was first developed by W. Kozma and M. 
 
 - [**`course-materials/Lesson2.ipynb`**](Lesson2.ipynb) is on determining clutter metrics from LiDAR.
 
-- [**`course-materials/Lesson3.ipynb`**](Lesson3.ipynb) is on comparing your clutter model to P.2108.
+- [**`course-materials/Lesson3.ipynb`**](Lesson3.ipynb) is on building your clutter model.
 
-- [**`course-materials/Lesson4.ipynb`**](Lesson4.ipynb) is on analyzing your clutter model against measurement data from other clutter environments.
+- [**`course-materials/Lesson4.ipynb`**](Lesson4.ipynb) is on comparing your clutter model to P.2108.
+
+- [**`course-materials/Lesson5.ipynb`**](Lesson5.ipynb) is on analyzing your clutter model against measurement data from other clutter environments.
 
 - [**`course-materials/data/`**](./data) is a directory containing LiDAR and propagation measurement datasets.
 
