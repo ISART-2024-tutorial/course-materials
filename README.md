@@ -12,7 +12,7 @@ The model you'll create in this tutorial was first developed by W. Kozma and M. 
 
 ## Quick Start
 
-1. **Send your GitHub username to mhollingsworth@NTIA.gov** and for access to the course materials and coding environment. Once we receive your email, we will confirm you are an ISART attendee and create your account. If you do not have a GitHub username, [create one](https://github.com)!
+1. **Send your GitHub username to mhollingsworth@NTIA.gov** for access to the course materials and coding environment. Once we receive your email, we will confirm you are an ISART attendee and create your account. If you do not have a GitHub username, [create one](https://github.com)!
 
 2. Once we receive your email, we will invite you to the [ISART-2024-tutorial GitHub organization](https://github.com/ISART-2024-tutorial). It may take a few hours so please be patient. Check your [GitHub organizations tab](https://github.com/settings/organizations) and accept the invite.
 
