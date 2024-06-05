@@ -86,4 +86,4 @@ If you would like lidar rasters from areas not included in this tutorial, we rec
 
 ### Measurement data
 
-TODO Link to the github page with the released data.
+COMING SOON - Link to the GitHub repo with the released measurement data.
