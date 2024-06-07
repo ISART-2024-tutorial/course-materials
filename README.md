@@ -86,4 +86,4 @@ If you would like lidar rasters from areas not included in this tutorial, we rec
 
 ### Measurement data
 
-COMING SOON - Link to the GitHub repo with the released measurement data.
+RELEASE COMING IN JULY 2024 - Stay tuned for the release of measurement datasets by NTIA/ITS. A link will be provided here upon official release.  
