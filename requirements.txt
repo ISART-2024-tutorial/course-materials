@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+rasterio
+scikit-learn
+./packages/p2108-1.0.0-py3-none-any.whl
